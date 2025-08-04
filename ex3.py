@@ -1,6 +1,6 @@
 
 def hello_world():
-    print("Hello, World!")
+    print("yo, World!")
     print("goodbye world")
     for i in range(10) :
         print(i) 
